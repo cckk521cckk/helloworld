@@ -1,1 +1,2 @@
+cd HelloWorld
 nuget restore
